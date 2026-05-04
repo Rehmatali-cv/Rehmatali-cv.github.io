@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Rehmat Ali
-subtitle: "Embedded AI Engineer"
-email: rehmatali8090@gmail.com
-name: Rehmat Ali
+title: Libby H. Koolik
+subtitle: "Air Quality Engineer Studying the Climate-Health-Equity Nexus"
+email: koolik@berkeley.edu
+name: Libby H. Koolik
 description: >
   The personal and professional website of Libby H. Koolik. Website made possible by Ben Centra and the kindness of open source code. Thanks, Ben!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "Rehmatali322.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo-new.png"
 
