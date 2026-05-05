@@ -3,22 +3,16 @@ layout: page
 title: About
 permalink: /about/
 main_nav: true
-nav_order: 1
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile_photo_2022.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-## Libby H. Koolik
+Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-### About Me
-Hi, I'm Libby! I am an air pollution engineer who works on systems-level solutions for complex, multifaceted environmental problems at the intersection of climate, health, and equity. 
+This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
 
-Currently, I'm PhD candidate at University of California, Berkeley, focusing on air pollution exposures in the Department of [Civil and Environmental Engineering](https://ce.berkeley.edu/). Prior to starting at Berkeley, I got my bachelor's in [Atmospheric Science](https://eapsweb.mit.edu/) and my master's in [Environmental Engineering](https://cee.mit.edu/) at MIT. In between, I worked as an Air Quality Consultant at [Ramboll](https://ramboll.com/services-and-sectors/environment-and-health/air-quality-management). At Berkeley, I am part of the [Apte Group](https://apte.berkeley.edu/). 
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-I investigate the structural linkages driving climate and air pollution inequality and identify new frameworks for mitigating environmental injustices. My research is interdisciplinary, bringing together atmospheric science, data science, public health, and environmental justice.
-
-My work is motivated by principles of equity, justice, and inclusion. I am passionate about lowering the barriers of entry to traditional air pollution modeling; as the lead engineer of the [ECHO-AIR model](https://echo-air-model.github.io/), I have built a simple hands-off platform for air pollution modeling. 
-
-<b>I'm graduating in May 2026 and currently looking for postdoc opportunities!</b> If you are hiring or know of good opportunities for me to continue exploring problems at the intersection of air pollution, environmental justice, and climate policy, [I would love to connect](mailto:koolik@berkeley.edu).
-
-For more detailed information about my academic and research experience, check out my online [CV](https://lkoolik.github.io/CV/). 
+[centrarium]: https://github.com/bencentra/centrarium
+[bencentra]: http://bencentra.com
+[jekyll]: https://github.com/jekyll/jekyll
