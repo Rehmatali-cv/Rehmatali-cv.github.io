@@ -10,14 +10,10 @@ main_nav: true
 ## Rehmat Ali
 
 ### About Me
-Hi, I'm Libby! I am an air pollution engineer who works on systems-level solutions for complex, multifaceted environmental problems at the intersection of climate, health, and equity. 
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I am an engineer and researcher currently completing my Master 2 in [Embedded Technologies and Artificial Intelligence (ETAI)](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/embedded-technologies-and-artificial-intelligence-masters-degreee-etai) at [Nantes Université (University of Nantes)](https://www.univ-nantes.fr/), France.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My technical focus lies at the cutting edge of Electronic Design Automation (EDA), specifically leveraging Machine Learning to solve complex challenges in FPGA and VLSI design. My recent research involves developing adversarial attack frameworks to test the robustness of AI tools within the semiconductor industry, alongside optimizing congestion and crosstalk noise prediction.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Beyond academia, I am an experienced software developer and consultant. I specialize in architecting custom logic and data models for logistics and business management systems, ensuring that even the most intricate technical infrastructures remain robust, scalable, and reliable.
