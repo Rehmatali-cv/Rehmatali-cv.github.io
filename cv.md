@@ -9,9 +9,6 @@ nav_order: 2
 <p>Below are the academic highlights from the most recent version of my CV. You can download a full copy of my CV <a href="https://raw.githubusercontent.com/lkoolik/lkoolik.github.io/main/assets/Libby%20H%20Koolik%20CV.pdf" target="_blank">here</a>.</p>
 
 
-
-
-
 ---
 layout: page
 title: CV
@@ -20,14 +17,33 @@ main_nav: true
 nav_order: 2
 ---
 
-<p>Below are the professional and academic highlights from my CV. You can download a full copy of my CV <a href="YOUR_LINK_HERE" target="_blank">here</a>.</p>
+<p>
+  Below are the academic and professional highlights from the most recent version of my CV.
+  You can download a full copy of my CV 
+  <a href="/assets/Rehmat-Ali-CV.pdf" target="_blank">here</a>.
+</p>
 
 <hr>
 
 <h3>Education</h3>
 <ul>
-  [cite_start]<li>(<em>Anticipated 08/2026</em>) <b><a href="https://polytech.univ-nantes.fr/en/academic-programs/international-masters/international-master-s-degree-in-embedded-technologies-artificial-intelligence-etai-">Master 2 in Embedded Technologies and Artificial Intelligence (ETAI)</a></b>, <i><a href="https://english.univ-nantes.fr/">Nantes Université (University of Nantes), France</a></i>[cite: 14, 32].</li>
-  [cite_start]<li>(07/2021) <b>Bachelor of Science in Software Engineering</b>, <i>SZABIST, Islamabad</i>[cite: 17, 33]. [cite_start]GPA: 3.16/4.0[cite: 17].</li>
+  <li>
+    (<em>11/2025-08/2026</em>) 
+    <b>Master's in Embedded Technologies and Artificial Intelligence</b>, 
+    <i>Nantes Université / Polytech Nantes, Nantes, France</i>.
+    Focus: integration of advanced AI algorithms into embedded systems, combining hardware design, 
+    software engineering, and machine learning for intelligent, efficient, autonomous, and real-time 
+    low-power devices.
+  </li>
+
+  <li>
+    (<em>09/2017-07/2021</em>) 
+    <b>Bachelor of Science in Software Engineering</b>, 
+    <i>SZABIST, Islamabad, Pakistan</i>.
+    GPA: 3.16/4.0. Major coursework included Data Science, Digital Image Processing, Artificial 
+    Intelligence, Software Engineering, Object-Oriented Programming, Software Architecture & Design, 
+    and Visual Programming.
+  </li>
 </ul>
 
 <hr>
@@ -35,56 +51,132 @@ nav_order: 2
 <h3>Professional Experience</h3>
 
 <h4>ERPHUB</h4>
-[cite_start]<i>ERP Solution Developer</i> (01/2023-08/2025) [cite: 20, 36]
+<i>Cleveland, USA / Onsite: Islamabad</i><br>
+<b>ERP Solution Developer</b> (<em>01/2023-08/2025</em>)
 <ul>
-  [cite_start]<li>Designed custom applications and automated workflows using Zoho Creator and Deluge scripting[cite: 21].</li>
-  [cite_start]<li>Optimized business processes across Zoho CRM, Books, People, and Desk[cite: 22].</li>
-  [cite_start]<li>Built interactive dashboards and data visualizations in Zoho Analytics[cite: 23].</li>
-  [cite_start]<li>Implemented AI-based solutions including predictive lead scoring and smart automation flows[cite: 24, 25, 26].</li>
+  <li>Designed custom applications and automated workflows using Zoho Creator and Deluge scripting.</li>
+  <li>Developed and optimized business processes across Zoho CRM, Zoho Books, Zoho People, and Zoho Desk.</li>
+  <li>Built interactive dashboards and data visualizations using Zoho Analytics.</li>
+  <li>Integrated Zoho applications with external platforms using REST APIs, webhooks, and custom functions.</li>
+  <li>Implemented AI-based solutions within the Zoho ecosystem, including predictive lead scoring, smart automation flows, customer-support chatbots, and AI-powered business forecasting analytics.</li>
+  <li>Supported scalable, data-driven applications aligned with business goals and client requirements.</li>
 </ul>
 
 <h4>FairchanceforCRM</h4>
-[cite_start]<i>Zoho Developer</i> (08/2021-12/2022) [cite: 39, 49, 50]
+<i>Lahore, Pakistan</i><br>
+<b>Zoho Developer</b> (<em>08/2021-12/2022</em>)
 <ul>
-  [cite_start]<li>Analyzed business requirements and implemented customized workflows to streamline processes[cite: 40, 41].</li>
-  [cite_start]<li>Automated repetitive tasks to enhance CRM efficiency[cite: 42].</li>
-  [cite_start]<li>Developed and trained SalesIQ chatbots to improve digital support experiences[cite: 43].</li>
+  <li>Held regular meetings with clients to gather and analyze business requirements for Zoho-based solutions.</li>
+  <li>Planned and implemented customized workflows across Zoho applications to streamline business processes.</li>
+  <li>Designed and developed custom workflows and functions to automate repetitive tasks and improve CRM efficiency.</li>
+  <li>Developed and trained a SalesIQ chatbot to handle multiple customer scenarios, trigger actions, and provide contextual responses.</li>
 </ul>
 
 <hr>
 
-<h3>Technical Projects</h3>
+<h3>Projects</h3>
 
-<h4>Deep Learning Based Framework for Colorectal Polyp Classification</h4>
+<h4>Deep Learning-Based Framework for Colorectal Polyp Classification</h4>
 <ul>
-  [cite_start]<li>Developed an AI-powered diagnostic system using Convolutional Neural Networks (CNN) for early detection of colorectal cancer[cite: 51].</li>
-  [cite_start]<li>Achieved 94% accuracy in distinguishing between adenomatous and hyperplastic polyps[cite: 52].</li>
-  [cite_start]<li>Built a web-based platform for doctors and patients to upload images and generate classification reports[cite: 53].</li>
+  <li>Developed an AI-powered diagnostic system for early detection of colorectal cancer using colonoscopy images.</li>
+  <li>Used Convolutional Neural Networks (CNNs) to classify intestinal polyps as adenomatous or hyperplastic.</li>
+  <li>Achieved 94% classification accuracy.</li>
+  <li>Built a web-based platform with doctor and patient modules for uploading colonoscopy images and generating classification reports.</li>
+  <li>Followed the Spiral Model of SDLC for iterative development and risk management.</li>
 </ul>
 
-<h4>Voice-Controlled Home Automation using Arduino</h4>
+<h4>Voice-Controlled Home Automation Using Arduino</h4>
 <ul>
-  [cite_start]<li>Designed a home automation system to control electronic devices via voice commands[cite: 57].</li>
-  [cite_start]<li>Integrated Arduino (C++), Bluetooth modules, and mobile applications for wireless power state management[cite: 58, 59, 60, 61].</li>
+  <li>Designed a home automation system to control electronic devices through voice commands.</li>
+  <li>Programmed an Arduino board in C++ to act as the central controller.</li>
+  <li>Used a mobile application to capture voice commands such as “turn on” and “turn off.”</li>
+  <li>Transmitted commands wirelessly to the Arduino using a Bluetooth module.</li>
+  <li>Demonstrated a proof-of-concept for controlling household lights and appliances.</li>
 </ul>
 
 <hr>
 
 <h3>Technical Skills</h3>
+
+<h4>Programming Languages</h4>
 <ul>
-  [cite_start]<li><b>Languages:</b> Python, PHP, SQL, C, C++, Javascript, Deluge[cite: 64].</li>
-  [cite_start]<li><b>Front End:</b> HTML, CSS, Javascript, Bootstrap, JQuery[cite: 65].</li>
-  [cite_start]<li><b>Frameworks & Tools:</b> Tensorflow, Jupyter Notebook, Google Colab, Overleaf[cite: 66].</li>
-  [cite_start]<li><b>Languages:</b> English (Fluent), Urdu (Native), French (Basic)[cite: 68, 70].</li>
+  <li>Python, PHP, SQL, C, C++, JavaScript, Deluge</li>
 </ul>
 
+<h4>Front-End Development</h4>
+<ul>
+  <li>HTML, CSS, JavaScript, Bootstrap, jQuery</li>
+</ul>
+
+<h4>Frameworks and Tools</h4>
+<ul>
+  <li>TensorFlow, Jupyter Notebook, Google Colab, Overleaf</li>
+</ul>
+
+<h4>ERP and Business Automation</h4>
+<ul>
+  <li>Zoho Creator, Zoho CRM, Zoho Books, Zoho People, Zoho Desk, Zoho Analytics, SalesIQ</li>
+</ul>
 
 <hr>
 
+<h3>Languages</h3>
+<ul>
+  <li>English: Fluent</li>
+  <li>Urdu: Native</li>
+  <li>French: Basic</li>
+</ul>
+
+<hr>
+
+<h3>References</h3>
+
+<h4>Pascal CHARGE</h4>
+<p>
+  Program Director<br>
+  Department of Electronics and Digital Technologies<br>
+  Polytech Nantes, France<br>
+  Email: <a href="mailto:Pascal.Charge@univ-nantes.fr">Pascal.Charge@univ-nantes.fr</a>
+</p>
+
+<h4>Sebastien PILLEMENT</h4>
+<p>
+  Lecturer-Researcher<br>
+  Department of Electronics and Digital Technologies<br>
+  Polytech Nantes, France<br>
+  Email: <a href="mailto:Sebastien.Pillement@univ-nantes.fr">Sebastien.Pillement@univ-nantes.fr</a><br>
+  Website: <a href="http://pillement.polytech.univ-nantes.fr/" target="_blank">pillement.polytech.univ-nantes.fr</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3>Education</h3>
 <ul>
-  <li>(<em>Anticipated 05/2026</em>) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Dissertation Committee: Joshua S. Apte (chair), Robert Harley, Cesunica Ivey, Rachel Morello-Frosch.</li>
-  <li>(02/2018) <b>Master of Engineering in Civil and Environmental Engineering</b>, <i>Massachusetts Institute of Technology</i>. Thesis: The phase separation inlet for droplets, ice residuals, and interstitial aerosols (<a href="http://hdl.handle.net/1721.1/115782">link</a>). Advisor: Daniel J. Cziczo.</li>
+  <li>(<em>Anticipated 07/2026</em>) <b>Master’s In Embedded Technologies and Artificial Intelligence</b>, <i>Nantes Université,
+Nantes, France</i>
   <li>(02/2017) <b>Bachelor of Science in Earth, Atmospheric, and Planetary Sciences</b>, <i>Massachusetts Institute of Technology</i>. Thesis: Characterization of a 3D printed pumped counterflow virtual impactor and an aerodynamic lens concentrator (<a href="http://hdl.handle.net/1721.1/114346">link</a>). Advisor: Daniel J. Cziczo. Minor: Atmospheric Chemistry. Concentration: Music and Theater Arts.</li>
 </ul>
 
