@@ -17,7 +17,7 @@ nav_order: 2
 <h3>Education</h3>
 <ul>
   <li>
-    (<em>11/2025-08/2026</em>) 
+    (<em>09/2025-08/2026</em>) 
     <b>Master's in Embedded Technologies and Artificial Intelligence</b>, 
     <i>Nantes Université / Polytech Nantes, Nantes, France</i>.
     Focus: integration of advanced AI algorithms into embedded systems, combining hardware design, 
