@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/Profile Pic.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/Circle Cropped Profile Picture.png "Profile Picture"){:.profile}
 
 ## Rehmat Ali
 
