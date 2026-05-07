@@ -8,6 +8,77 @@ nav_order: 2
 
 <p>Below are the academic highlights from the most recent version of my CV. You can download a full copy of my CV <a href="https://raw.githubusercontent.com/lkoolik/lkoolik.github.io/main/assets/Libby%20H%20Koolik%20CV.pdf" target="_blank">here</a>.</p>
 
+
+
+
+
+---
+layout: page
+title: CV
+permalink: /CV/
+main_nav: true
+nav_order: 2
+---
+
+<p>Below are the professional and academic highlights from my CV. You can download a full copy of my CV <a href="YOUR_LINK_HERE" target="_blank">here</a>.</p>
+
+<hr>
+
+<h3>Education</h3>
+<ul>
+  [cite_start]<li>(<em>Anticipated 08/2026</em>) <b><a href="https://polytech.univ-nantes.fr/en/academic-programs/international-masters/international-master-s-degree-in-embedded-technologies-artificial-intelligence-etai-">Master 2 in Embedded Technologies and Artificial Intelligence (ETAI)</a></b>, <i><a href="https://english.univ-nantes.fr/">Nantes Université (University of Nantes), France</a></i>[cite: 14, 32].</li>
+  [cite_start]<li>(07/2021) <b>Bachelor of Science in Software Engineering</b>, <i>SZABIST, Islamabad</i>[cite: 17, 33]. [cite_start]GPA: 3.16/4.0[cite: 17].</li>
+</ul>
+
+<hr>
+
+<h3>Professional Experience</h3>
+
+<h4>ERPHUB</h4>
+[cite_start]<i>ERP Solution Developer</i> (01/2023-08/2025) [cite: 20, 36]
+<ul>
+  [cite_start]<li>Designed custom applications and automated workflows using Zoho Creator and Deluge scripting[cite: 21].</li>
+  [cite_start]<li>Optimized business processes across Zoho CRM, Books, People, and Desk[cite: 22].</li>
+  [cite_start]<li>Built interactive dashboards and data visualizations in Zoho Analytics[cite: 23].</li>
+  [cite_start]<li>Implemented AI-based solutions including predictive lead scoring and smart automation flows[cite: 24, 25, 26].</li>
+</ul>
+
+<h4>FairchanceforCRM</h4>
+[cite_start]<i>Zoho Developer</i> (08/2021-12/2022) [cite: 39, 49, 50]
+<ul>
+  [cite_start]<li>Analyzed business requirements and implemented customized workflows to streamline processes[cite: 40, 41].</li>
+  [cite_start]<li>Automated repetitive tasks to enhance CRM efficiency[cite: 42].</li>
+  [cite_start]<li>Developed and trained SalesIQ chatbots to improve digital support experiences[cite: 43].</li>
+</ul>
+
+<hr>
+
+<h3>Technical Projects</h3>
+
+<h4>Deep Learning Based Framework for Colorectal Polyp Classification</h4>
+<ul>
+  [cite_start]<li>Developed an AI-powered diagnostic system using Convolutional Neural Networks (CNN) for early detection of colorectal cancer[cite: 51].</li>
+  [cite_start]<li>Achieved 94% accuracy in distinguishing between adenomatous and hyperplastic polyps[cite: 52].</li>
+  [cite_start]<li>Built a web-based platform for doctors and patients to upload images and generate classification reports[cite: 53].</li>
+</ul>
+
+<h4>Voice-Controlled Home Automation using Arduino</h4>
+<ul>
+  [cite_start]<li>Designed a home automation system to control electronic devices via voice commands[cite: 57].</li>
+  [cite_start]<li>Integrated Arduino (C++), Bluetooth modules, and mobile applications for wireless power state management[cite: 58, 59, 60, 61].</li>
+</ul>
+
+<hr>
+
+<h3>Technical Skills</h3>
+<ul>
+  [cite_start]<li><b>Languages:</b> Python, PHP, SQL, C, C++, Javascript, Deluge[cite: 64].</li>
+  [cite_start]<li><b>Front End:</b> HTML, CSS, Javascript, Bootstrap, JQuery[cite: 65].</li>
+  [cite_start]<li><b>Frameworks & Tools:</b> Tensorflow, Jupyter Notebook, Google Colab, Overleaf[cite: 66].</li>
+  [cite_start]<li><b>Languages:</b> English (Fluent), Urdu (Native), French (Basic)[cite: 68, 70].</li>
+</ul>
+
+
 <hr>
 
 <h3>Education</h3>
