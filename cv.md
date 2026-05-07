@@ -9,7 +9,7 @@ nav_order: 2
 <p>
   Below are the academic and professional highlights from the most recent version of my CV.
   You can download a full copy of my CV 
-  <a href="/assets/Rehmat-Ali-CV.pdf" target="_blank">here</a>.
+  <a href="/assets/Rehmat Ali CV.pdf" target="_blank">here</a>.
 </p>
 
 <hr>
