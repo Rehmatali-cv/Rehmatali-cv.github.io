@@ -3,154 +3,76 @@ layout: page
 title: Research
 permalink: /research/
 main_nav: true
+nav_order: 4
 ---
 
-<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+<p>
+  My current research focuses on applying Artificial Intelligence and Machine Learning 
+  to FPGA benchmarking, Electronic Design Automation, and embedded systems.
+</p>
 
 <hr>
 
-<h1 id="headings">Headings</h1>
+<h3>Current Research Internship</h3>
 
-<h1>h1. Heading</h1>
-<h2>h2. Heading</h2>
-<h3>h3. Heading</h3>
-<h4>h4. Heading</h4>
-<h5>h5. Heading</h5>
-<h6>h6. Heading</h6>
+<h4>FPGA Benchmarking Framework for AI-Based EDA Tools</h4>
+<p>
+  <b>Institute:</b> Institut d’Électronique et des Technologies du numéRique (IETR)<br>
+  <b>Location:</b> Nantes, France<br>
+  <b>Duration:</b> February 2026 – July 2026<br>
+  <b>Role:</b> Research Intern
+</p>
 
-<hr>
-
-<h1 id="paragraph">Paragraph</h1>
-
-<p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-
-<p>Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-
-<hr>
-
-<h1 id="list_types">List Types</h1>
-
-<p>Lists are unstyled by defualt. To restore the original styling, add the <code>.default</code> class</p>
-
-<h3>Definition List</h3>
-<dl>
-  <dt>Definition List Title</dt>
-  <dd>This is a definition list division.</dd>
-</dl>
-
-<h3>Ordered List</h3>
-<ol>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List</h3>
 <ul>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ul>
-
-<h3>Ordered List with <code>.default</code> class</h3>
-<ol class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List with <code>.default</code> class</h3>
-<ul class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
+  <li>Built an AI/ML-based FPGA benchmarking framework using XGBoost.</li>
+  <li>Created ML-ready Vivado datasets from congestion, routing, utilization, unrouted nets, and runtime metrics.</li>
+  <li>Developed an AI-assisted adversarial netlist generation flow for benchmarking AI-based EDA tools.</li>
+  <li>Designed a Python and NetworkX graph generator for FPGA-aware circuit generation.</li>
+  <li>Automated Verilog and XDC generation for AI-driven FPGA routing-stress testing.</li>
 </ul>
 
 <hr>
 
-<h1 id="form_elements">Fieldsets and Form Elements</h1>
+<h3>Research Interests</h3>
 
-<fieldset>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
-
-  <form>
-    <h2>Form Element</h2>
-
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
-
-    <p><label for="text_field">Text Field:</label>
-      <input type="text" id="text_field" /></p>
-
-    <p><label for="text_area">Text Area:</label>
-      <textarea id="text_area"></textarea></p>
-
-    <p><label for="select_element">Select Element:</label>
-      <select name="select_element">
-        <optgroup label="Option Group 1">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-        <optgroup label="Option Group 2">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-    </select></p>
-
-    <p><label for="radio_buttons">Radio Buttons:</label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_1" /> Radio 1
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_2" /> Radio 2
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_3" /> Radio 3
-      </label>
-    </p>
-
-    <p><label for="checkboxes">Checkboxes:</label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_1" /> Checkbox 1
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_2" /> Checkbox 2
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_3" /> Checkbox 3
-      </label>
-    </p>
-
-    <p><label for="password">Password:</label>
-      <input type="password" class="password" name="password" />
-    </p>
-
-    <p><label for="file">File Input:</label>
-      <input type="file" class="file" name="file" />
-    </p>
-
-
-    <p><input type="submit" value="Submit" /></p>
-  </form>
-</fieldset>
+<ul>
+  <li>Artificial Intelligence for Electronic Design Automation</li>
+  <li>Machine Learning for FPGA routing congestion prediction</li>
+  <li>AI-assisted adversarial circuit and netlist generation</li>
+  <li>FPGA implementation analysis using Vivado golden-reference results</li>
+  <li>Embedded AI and Edge AI for low-power intelligent systems</li>
+  <li>Hardware/software co-design for connected and embedded objects</li>
+</ul>
 
 <hr>
 
-<h1 id="tables">Tables</h1>
+<h3>Research Skills</h3>
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr class="even">
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-</table>
-</div>
+<ul>
+  <li><b>Machine Learning:</b> XGBoost, dataset preparation, model training, prediction, and evaluation</li>
+  <li><b>FPGA Design:</b> Vivado, Verilog, XDC constraints, routing congestion analysis, implementation metrics</li>
+  <li><b>Graph-Based Generation:</b> Python, NetworkX, DAG-based circuit generation, FPGA-aware constraints</li>
+  <li><b>Embedded Systems:</b> Embedded OS, edge computing, embedded software, low-power system design</li>
+  <li><b>Signal Processing:</b> Advanced signal processing, antenna processing, AI for digital communications</li>
+</ul>
+
+<hr>
+
+<h3>Academic Background Supporting Research</h3>
+
+<p>
+  I am pursuing a Master's in Embedded Technologies and Artificial Intelligence at Nantes Université, 
+  with coursework in AI fundamentals, AI for advanced digital communication, embedded systems architecture, 
+  embedded OS, edge computing, hardware/software architecture design, advanced signal processing, 
+  antenna processing, power consumption and reliability, embedded software, and connected objects.
+</p>
+
+<hr>
+
+<h3>Research Goal</h3>
+
+<p>
+  My goal is to develop intelligent FPGA benchmarking methods that use AI and machine learning 
+  to generate challenging circuit scenarios, evaluate AI-based EDA tools, and support more reliable 
+  FPGA and VLSI design workflows.
+</p>
