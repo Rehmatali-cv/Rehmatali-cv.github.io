@@ -8,8 +8,25 @@ nav_order: 2
 
 <p>
   Below are the academic and professional highlights from the most recent version of my CV.
-  You can download a full copy of my CV 
-  <a href="https://raw.githubusercontent.com/Rehmatali-cv/Rehmatali-cv.github.io/main/assets/Rehmat%20Ali%20CV.pdf" target="_blank">here</a>
+</p>
+
+<p>
+  <a 
+    href="https://raw.githubusercontent.com/Rehmatali-cv/Rehmatali-cv.github.io/main/assets/Rehmat%20Ali%20CV.pdf" 
+    target="_blank"
+    style="
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #1f2937;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+    "
+  >
+    📄 Download CV
+  </a>
 </p>
 
 <hr>
