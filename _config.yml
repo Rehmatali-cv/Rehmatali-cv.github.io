@@ -9,15 +9,14 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Rehmat Ali
+subtitle: "Embedded AI Engineer | Software Developer"
+email: rehmatali8090@gmail.com
+name: Rehmat Ali
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
+  Master's student in Embedded Technologies and Artificial Intelligence at Polytech Nantes, 
+  with experience in AI, embedded systems, software development, Zoho ERP solutions, 
+  automation, dashboards, and full-stack business systems.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
