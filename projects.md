@@ -84,5 +84,5 @@ nav_order: 3
   <li><b>Languages:</b> Verilog, Python, PHP, SQL, C, C++, JavaScript, Deluge</li>
   <li><b>Frontend:</b> HTML, CSS, JavaScript, Bootstrap, jQuery</li>
   <li><b>Frameworks and Tools:</b> Vivado, TensorFlow, Jupyter Notebook, Google Colab, Overleaf</li>
-  <li><b>ERP and Automation:</b> Zoho Creator, Zoho CRM, Zoho Books, Zoho Desk, Zoho Analytics, SalesIQ</li>
+  <li><b>ERP and Automation:</b> Zoho Creator, Zoho CRM, Zoho Books, Zoho Desk, Zoho Analytics, SalesIQ and other Zoho One applications</li>
 </ul>
