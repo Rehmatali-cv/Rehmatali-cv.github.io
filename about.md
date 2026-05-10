@@ -15,6 +15,13 @@ My technical focus lies at the cutting edge of Electronic Design Automation (EDA
 
 Beyond academia, I am an experienced software developer and consultant. I specialize in architecting custom logic and data models for logistics and business management systems, ensuring that even the most intricate technical infrastructures remain robust, scalable, and reliable.
 
-<p>
-  I am currently open to opportunities in Embedded AI, FPGA/EDA, Machine Learning, and software automation.
-</p>
+<div style="
+  margin-top: 25px;
+  padding: 16px 20px;
+  border-left: 4px solid #2b6cb0;
+  background-color: #f4f8fc;
+  border-radius: 6px;
+">
+  <strong>Open to opportunities:</strong> Embedded AI, FPGA/EDA, Machine Learning, 
+  Edge AI, and software automation roles.
+</div>
