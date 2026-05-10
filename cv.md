@@ -83,21 +83,33 @@ nav_order: 2
 <h3>Projects</h3>
 
 <h4>Deep Learning-Based Framework for Colorectal Polyp Classification</h4>
+<p>
+  <b>Type:</b> Academic Project<br>
+  <b>Members:</b> 2<br>
+  <b>Role:</b> Team Lead<br>
+  <b>Date:</b> September 2021<br>
+  <b>Link:</b> 
+  <a href="https://drive.google.com/file/d/1-F-7T4SAwb4GGk8wjiXiyrHcfNiGvBWx/view?usp=sharing" target="_blank">Documentation</a>
+</p>
+
 <ul>
-  <li>Developed an AI-powered diagnostic system for early detection of colorectal cancer using colonoscopy images.</li>
-  <li>Used Convolutional Neural Networks (CNNs) to classify intestinal polyps as adenomatous or hyperplastic.</li>
-  <li>Achieved 94% classification accuracy.</li>
-  <li>Built a web-based platform with doctor and patient modules for uploading colonoscopy images and generating classification reports.</li>
-  <li>Followed the Spiral Model of SDLC for iterative development and risk management.</li>
+  <li>Developed a CNN-based medical image classification system for colorectal polyp diagnosis.</li>
+  <li>Classified colonoscopy images as adenomatous or hyperplastic with 94% accuracy.</li>
+  <li>Built a web-based platform for image upload and diagnostic report generation.</li>
 </ul>
 
 <h4>Voice-Controlled Home Automation Using Arduino</h4>
+<p>
+  <b>Type:</b> Academic Project<br>
+  <b>Members:</b> Individual Project<br>
+  <b>Role:</b> Developer<br>
+  <b>Date:</b> December 2020
+</p>
+
 <ul>
-  <li>Designed a home automation system to control electronic devices through voice commands.</li>
-  <li>Programmed an Arduino board in C++ to act as the central controller.</li>
-  <li>Used a mobile application to capture voice commands such as “turn on” and “turn off.”</li>
-  <li>Transmitted commands wirelessly to the Arduino using a Bluetooth module.</li>
-  <li>Demonstrated a proof-of-concept for controlling household lights and appliances.</li>
+  <li>Developed an Arduino-based home automation system for controlling devices through voice commands.</li>
+  <li>Implemented C++ logic for command processing and device control.</li>
+  <li>Used Bluetooth communication between a mobile application and Arduino board.</li>
 </ul>
 <h4>GiftTrees Full-Stack Business Management System</h4>
 <p>
@@ -119,7 +131,7 @@ nav_order: 2
 
 <h4>Programming Languages</h4>
 <ul>
-  <li>Python, PHP, SQL, C, C++, JavaScript, Deluge</li>
+  <li> Verilog, Python, PHP, SQL, C, C++, JavaScript, Deluge</li>
 </ul>
 
 <h4>Front-End Development</h4>
@@ -129,12 +141,12 @@ nav_order: 2
 
 <h4>Frameworks and Tools</h4>
 <ul>
-  <li>TensorFlow, Jupyter Notebook, Google Colab, Overleaf</li>
+  <li>Vivado, TensorFlow, Jupyter Notebook, Google Colab, Overleaf</li>
 </ul>
 
 <h4>ERP and Business Automation</h4>
 <ul>
-  <li>Zoho Creator, Zoho CRM, Zoho Books, Zoho People, Zoho Desk, Zoho Analytics, SalesIQ</li>
+  <li>Zoho Creator, Zoho CRM, Zoho Books, Zoho People, Zoho Desk, Zoho Analytics, SalesIQ and other Zoho One Apps</li>
 </ul>
 
 <hr>
@@ -145,10 +157,6 @@ nav_order: 2
   <li>Urdu: Native</li>
   <li>French: Basic</li>
 </ul>
-
-<hr>
-
-<h3>References</h3>
 
 <hr>
 
