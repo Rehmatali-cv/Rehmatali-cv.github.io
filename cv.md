@@ -99,6 +99,19 @@ nav_order: 2
   <li>Transmitted commands wirelessly to the Arduino using a Bluetooth module.</li>
   <li>Demonstrated a proof-of-concept for controlling household lights and appliances.</li>
 </ul>
+<h4>GiftTrees Full-Stack Business Management System</h4>
+<p>
+  <b>Type:</b> Professional Project<br>
+  <b>Role:</b> Developer<br>
+  <b>Duration:</b> February 2024 – July 2026<br>
+  <b>Website:</b> <a href="https://www.gifttrees.com/" target="_blank">gifttrees.com</a>
+</p>
+
+<ul>
+  <li>Developed and configured the complete frontend and backend system for GiftTrees.</li>
+  <li>Built customer management, admin dashboards, reporting modules, and commission calculation systems.</li>
+  <li>Created custom control applications to manage business operations and internal workflows.</li>
+</ul>
 
 <hr>
 
