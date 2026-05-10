@@ -49,11 +49,19 @@ nav_order: 4
 <h3>Research Skills</h3>
 
 <ul>
-  <li><b>Machine Learning:</b> XGBoost, dataset preparation, model training, prediction, and evaluation</li>
+  <li><b>Machine Learning:</b> XGBoost, CNN classification, dataset preparation, model training, prediction, and evaluation</li>
+
+  <li><b>Deep Learning:</b> Convolutional Neural Networks, medical image classification, model accuracy evaluation, and diagnostic report generation</li>
+
   <li><b>FPGA Design:</b> Vivado, Verilog, XDC constraints, routing congestion analysis, implementation metrics</li>
+
   <li><b>Graph-Based Generation:</b> Python, NetworkX, DAG-based circuit generation, FPGA-aware constraints</li>
-  <li><b>Embedded Systems:</b> Embedded OS, edge computing, embedded software, low-power system design</li>
+
+  <li><b>Embedded Systems:</b> Arduino, C/C++, embedded software, Bluetooth communication, edge computing, and low-power system design</li>
+
   <li><b>Signal Processing:</b> Advanced signal processing, antenna processing, AI for digital communications</li>
+
+  <li><b>Software Development:</b> Python, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, and web-based application development</li>
 </ul>
 
 <hr>
