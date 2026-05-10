@@ -150,19 +150,32 @@ nav_order: 2
 
 <h3>References</h3>
 
-<h4>Pascal CHARGE</h4>
-<p>
-  Program Director<br>
-  Department of Electronics and Digital Technologies<br>
-  Polytech Nantes, France<br>
-  Email: <a href="mailto:Pascal.Charge@univ-nantes.fr">Pascal.Charge@univ-nantes.fr</a>
-</p>
+<hr>
 
-<h4>Sebastien PILLEMENT</h4>
-<p>
-  Lecturer-Researcher<br>
-  Department of Electronics and Digital Technologies<br>
-  Polytech Nantes, France<br>
-  Email: <a href="mailto:Sebastien.Pillement@univ-nantes.fr">Sebastien.Pillement@univ-nantes.fr</a><br>
-  Website: <a href="http://pillement.polytech.univ-nantes.fr/" target="_blank">pillement.polytech.univ-nantes.fr</a>
-</p>
+<h3>References</h3>
+
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 280px;">
+    <h4>Sebastien PILLEMENT</h4>
+    <p>
+      Lecturer-Researcher<br>
+      Department of Electronics and Digital Technologies<br>
+      Polytech Nantes, France<br>
+      Email: <a href="mailto:Sebastien.Pillement@univ-nantes.fr">Sebastien.Pillement@univ-nantes.fr</a><br>
+      Website: <a href="http://pillement.polytech.univ-nantes.fr/" target="_blank">pillement.polytech.univ-nantes.fr</a>
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 280px;">
+    <h4>Mr. Ehsaan Ali</h4>
+    <p>
+      PhD Research Scholar<br>
+      Université de Bretagne Occidentale<br>
+      29238 Brest Cedex 03, France<br>
+      Phone: <a href="tel:+33614991889">+33 6 14 99 18 89</a><br>
+      Email: <a href="mailto:ehsaan.ali@univ-brest.fr">ehsaan.ali@univ-brest.fr</a>
+    </p>
+  </div>
+
+</div>
