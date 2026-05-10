@@ -54,6 +54,25 @@ nav_order: 2
 
 <hr>
 
+<h3>Internship</h3>
+
+<h4>FPGA Benchmarking Framework for AI-Based EDA Tools</h4>
+<p>
+  <b>Institute:</b> Institut d’Électronique et des Technologies du numéRique (IETR)<br>
+  <b>Location:</b> Nantes, France<br>
+  <b>Role:</b> Research Intern<br>
+  <b>Duration:</b> February 2026 – July 2026
+</p>
+
+<ul>
+  <li>Built an AI/ML-based FPGA benchmarking framework using XGBoost.</li>
+  <li>Created ML-ready Vivado datasets from congestion, routing, utilization, and runtime metrics.</li>
+  <li>Developed an AI-assisted adversarial netlist generation flow for EDA benchmarking.</li>
+  <li>Designed a Python/NetworkX graph generator for FPGA-aware circuit generation.</li>
+  <li>Automated Verilog/XDC generation for AI-driven FPGA routing-stress testing.</li>
+</ul>
+
+<hr>
 <h3>Professional Experience</h3>
 
 <h4>ERPHUB</h4>
